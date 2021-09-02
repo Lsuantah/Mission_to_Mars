@@ -11,7 +11,6 @@ The main goal of this project is to use web scraping techniques to gather inform
 Information scraped was used to build this web app.
 
 
-
 ![mars](https://user-images.githubusercontent.com/75961117/116836053-24bf6f80-ab93-11eb-8fa6-5f120722da33.PNG)
 
 
